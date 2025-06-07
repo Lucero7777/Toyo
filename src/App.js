@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>oro</h1>
+        <h1>xd</h1>
         {/* Aquí va la imagen del meme */}
         <img
           src={memeImage}
